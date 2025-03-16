@@ -6,7 +6,7 @@ Currently, I am working towards filling the necessary skillgaps as a Frontend De
 
 I'm using roadmap.sh to work on projects and guide me on the necessary skills, you can find my progress here:
 
-[![roadmap.sh](https://roadmap.sh/card/tall/667d8f9bfd607366924d2ada?variant=dark)(roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/667d8f9bfd607366924d2ada?variant=dark)](roadmap.sh)
 
 <!--
 **vxlzz/vxlzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
