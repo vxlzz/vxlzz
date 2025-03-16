@@ -8,6 +8,10 @@ I'm using roadmap.sh to work on projects and guide me on the necessary skills, y
 
 [![roadmap.sh](https://roadmap.sh/card/tall/667d8f9bfd607366924d2ada?variant=dark)](roadmap.sh)
 
+## Current Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,git,github,c,vscode,npm,py)](https://skillicons.dev)
+
 <!--
 **vxlzz/vxlzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
