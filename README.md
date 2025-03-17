@@ -2,7 +2,7 @@
 
 Previously I have worked as a Shopify theme developer for a few years. In the last couple years I have begun upskilling myself, firstly finishing CS50 Introduction to Computer Science from Harvard University.
 
-Currently, I am working towards filling the necessary skillgaps as a Frontend Developer with aspirations to also complete Backend further down the line.
+Currently, I am working towards the goal of fullstack development by building projects that make use of my skill gaps.
 
 I'm using roadmap.sh to work on projects and guide me on the necessary skills, you can find my progress here:
 
