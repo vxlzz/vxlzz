@@ -4,7 +4,7 @@ Previously I have worked as a Shopify theme developer for a few years. In the la
 
 Currently, I am working towards the goal of fullstack development by building projects that make use of my skill gaps.
 
-I'm using roadmap.sh to work on projects and guide me on the necessary skills, you can find my profile ![here](https://roadmap.sh/u/vxlzz)
+I'm using roadmap.sh to work on projects and guide me on the necessary skills, you can find my profile [here](https://roadmap.sh/u/vxlzz)
 
 ## Current Skills
 
