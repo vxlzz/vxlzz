@@ -16,6 +16,7 @@ I am a developer who enjoys building systems and tools that make a big impact on
 ![TW](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NEXT](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Shopify](https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white)
 
 <!--
 **vxlzz/vxlzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
