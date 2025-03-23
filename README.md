@@ -1,14 +1,10 @@
-## Hi there 👋
+## Hello, my name is Tom Johnson
 
-Previously I have worked as a Shopify theme developer for a few years. In the last couple years I have begun upskilling myself, firstly finishing CS50 Introduction to Computer Science from Harvard University.
-
-Currently, I am working towards the goal of fullstack development by building projects that make use of my skill gaps.
-
-I'm using roadmap.sh to work on projects and guide me on the necessary skills, you can find my profile [here](https://roadmap.sh/u/vxlzz)
+I am a developer who enjoys building systems and tools that make a big impact on overall efficiency. I enjoy collaborating with designers and building their visions, with the user at the heart of everything I do. I have experience in the Shopify field and am currently upskilling myself through roadmap.sh. You can find some of those projects on [here](https://roadmap.sh/u/vxlzz).
 
 ## Current Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,git,github,c,vscode,npm,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,c,vscode,npm,py)](https://skillicons.dev)
 
 <!--
 **vxlzz/vxlzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
