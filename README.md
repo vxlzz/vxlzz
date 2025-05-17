@@ -1,6 +1,6 @@
 ## Hello, my name is Tom Johnson
 
-I am a developer who enjoys building systems and tools that make a big impact on overall efficiency. I enjoy collaborating with designers and building their visions, with the user at the heart of everything I do. I have experience in the Shopify field and am currently upskilling myself through roadmap.sh. You can find some of those projects on [here](https://roadmap.sh/u/vxlzz).
+I am a developer who enjoys building systems and tools that make a big impact on overall efficiency. I enjoy collaborating with designers and building their visions, with the user at the heart of everything I do. I have experience in the Shopify field and am currently upskilling myself through [roadmap.sh](https://roadmap.sh/u/vxlzz) and [Scrimba](https://scrimba.com/courses)
 
 ## Current Skills
 
